@@ -1,6 +1,4 @@
-# 👋 Hey, ich bin Janosch 
-(**mein Alias fürs Internet**)
-
+# 👋 Hey, ich bin Juljano 
 
 
 Ich mache aktuell meine Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** und spezialisiere mich auf **künstliche Intelligenz** – vor allem auf Machine Learning, NLP und Datenaufbereitung.  
