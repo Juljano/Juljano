@@ -45,6 +45,7 @@ Ich lege den Fokus darauf, die Funktionsweise hinter diesen Modellen wirklich zu
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=fff&style=flat-square)
 ![Spacy](https://img.shields.io/badge/Spacy-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-FF0000?logo=ONNX&logoColor=white)
 
 ---
 
