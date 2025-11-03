@@ -51,7 +51,7 @@ Ich lege den Fokus darauf, die Funktionsweise hinter diesen Modellen wirklich zu
 
 ### 📊 GitHub Statistiken für meine öffentlichen Repositories
 
-![Janosch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juljano&show_icons=true&theme=tokyonight)  
+![Juljano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juljano&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juljano&layout=compact&theme=tokyonight)
 
 ---
