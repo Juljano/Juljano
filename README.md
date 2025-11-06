@@ -7,7 +7,7 @@ Mich fasziniert, wie Maschinen lernen können, Muster zu erkennen und Entscheidu
 
 ---
 
-### 🔭 Woran ich gerade arbeite  
+### Woran ich gerade arbeite  
 - Aufbau eines persönlichen **Wissensarchivs in Obsidian** zu KI, Datenverarbeitung und Programmierung  
 - Experimente mit **Word2Vec**, **Doc2Vec** und **Textklassifikation**  
 - Entwicklung kleiner **ML-Prototypen in Python**
@@ -15,8 +15,7 @@ Mich fasziniert, wie Maschinen lernen können, Muster zu erkennen und Entscheidu
 
 ---
 
-### 🚀 Langfristiges Ziel  
-Ich bin Azubi und bringe mir privat die Grundlagen der KI-Programmierung bei.  
+### Langfristiges Ziel  
 Langfristig möchte ich **KI-Systeme und große Sprachmodelle verstehen und trainieren**,  
 ohne von den großen KI-Unternehmen abhängig zu sein, und die **inneren Mechanismen selbstständig durchdringen**.
 
@@ -33,7 +32,7 @@ Ich lege den Fokus darauf, die Funktionsweise hinter diesen Modellen wirklich zu
 
 ---
 
-### 🧠 Technologien & Tools  
+### Technologien & Tools  
 **Ein Überblick über die Tools und Technologien, mit denen ich arbeite:**  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +49,7 @@ Ich lege den Fokus darauf, die Funktionsweise hinter diesen Modellen wirklich zu
 
 ---
 
-### 📊 GitHub Statistiken für meine öffentlichen Repositories
+### GitHub Statistiken für meine öffentlichen Repositories
 
 ![Juljano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juljano&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juljano&layout=compact&theme=tokyonight)
