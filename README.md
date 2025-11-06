@@ -26,6 +26,7 @@ ohne von den großen KI-Unternehmen abhängig zu sein, und die **inneren Mechani
 ![Naives Bayes](https://img.shields.io/badge/naive%20Bayes-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Transformer](https://img.shields.io/badge/Transformer-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LinearSVC](https://img.shields.io/badge/LinearSVC-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
 Ich lege den Fokus darauf, die Funktionsweise hinter diesen Modellen wirklich zu verstehen – nicht nur sie anzuwenden.
